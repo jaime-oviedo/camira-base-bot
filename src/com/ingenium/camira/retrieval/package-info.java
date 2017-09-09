@@ -5,4 +5,4 @@
  * @author joviedo
  *
  */
-package com.ingenium.camira.retrieval.bot;
+package com.ingenium.camira.retrieval;
